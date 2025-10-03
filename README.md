@@ -26,9 +26,12 @@
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-0A192F?logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-A020F0?logo=n8n&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
 ![DIO](https://img.shields.io/badge/DIO%20Bootcamp-EC1C24?logo=dio&logoColor=white)
+
 
 ---
 
